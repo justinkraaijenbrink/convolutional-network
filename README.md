@@ -4,5 +4,4 @@ Report and corresponding Python code for an assignment on multi-layer perceptron
 The documents included in this repository:
 
 1. The actual assignment
-2. A written report
-3. Python code files
+2. Python code files
